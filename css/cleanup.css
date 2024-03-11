@@ -1,1 +1,19 @@
-/* write your override styles here */
+div#wall .tag-1 {
+  height: 80px; 
+  background-color: black; 
+  position: relative; 
+}
+div#wall #tag-2 {
+  height: 178px; 
+  background-color: black; 
+  position: relative; 
+}
+
+div#wall #tag-3 {
+  height: 120px; 
+  background-color: black;
+  position: relative;
+}
+body {
+  background-color:white; 
+}
